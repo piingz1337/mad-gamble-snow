@@ -5,8 +5,8 @@
 // @author       piingz666
 // @match        https://www.mad-gamble.net/forum/*
 // @grant        none
-// @updateURL   https://raw.githubusercontent.com/piingz1337/mad-gamble-snow/userscripts/v1.js
-// @downloadURL https://raw.githubusercontent.com/piingz1337/mad-gamble-snow/userscripts/v1.js
+// @updateURL   https://raw.githubusercontent.com/piingz1337/mad-gamble-snow/master/v1.js
+// @downloadURL https://raw.githubusercontent.com/piingz1337/mad-gamble-snow/master/v1.js
 // ==/UserScript==
 
 (function() {
