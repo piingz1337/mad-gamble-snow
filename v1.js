@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         better snow
-// @version      1.0
+// @name         better snowflakes
+// @version      v2
 // @description  Adds a snow overlay on mad-gamble.
 // @author       piingz666
-// @match        https://www.mad-gamble.net/forum/*
+// @match        https://www.mad-gamble.net/*
 // @grant        none
 // @updateURL   https://raw.githubusercontent.com/piingz1337/mad-gamble-snow/master/v1.js
 // @downloadURL https://raw.githubusercontent.com/piingz1337/mad-gamble-snow/master/v1.js
